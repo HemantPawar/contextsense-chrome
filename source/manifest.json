@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Context Sense",
-  "description": "Extracts sentiment, tags, concepts and categories from a URL or piece of text. Fetches webpages from the Internet which are perfectly targeted according to context and semantics.",
+  "description": "Extracts sentiment, tags, concepts and categories from a URL or piece of text.",
   "version": "1.0",
   "homepage_url": "http://wingify.com/labs",
   "author": "Hemant Pawar",
